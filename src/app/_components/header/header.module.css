@@ -1,0 +1,36 @@
+.main {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-between;
+   
+}
+
+/* .logo {
+    
+} */
+.link{ 
+    color: black
+}
+
+
+
+.menu {
+    display: flex;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    width: 350px;
+    justify-content: space-around;
+}
+
+.button {
+    width: 150px;
+}
